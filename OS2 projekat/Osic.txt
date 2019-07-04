@@ -1,0 +1,7 @@
+prvi put kad neko ubaci u scheduler dodelimo mu PCBdata klasu.
+moze da se desi da se nijedan procesor ne izvrsava na procesoru. Nema preemt procesora koji nema nit na sebi.
+u 3. pazi da kvant ne ode na nulu.
+vracaj proces na isti procesor.
+pralaleziuj stvari sto je vise moguce.
+ako nisu dobri argumenti 
+process afinity
